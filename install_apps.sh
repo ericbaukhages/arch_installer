@@ -23,7 +23,9 @@ apps=("essential" "Essentials" on
       "neovim" "Neovim" on
       "urxvt" "URxvt" on
       "firefox" "Firefox (browser)" off
-      "js" "JavaScript tooling" off)
+      "js" "JavaScript tooling" off
+      "development" "Development tools" off
+      "fun" "Fun stuff" off)
 
 dialog --checklist \
 "You can now choose what group of applications you want to install. \n\n\

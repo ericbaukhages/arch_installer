@@ -38,3 +38,6 @@ js,nodejs,Nodejs
 js,yarn,Dependency manager
 urxvt,rxvt-unicode,Terminal Urxvt
 firefox,firefox,Browser Firefox
+fun,minecraft-launcher,Minecraft
+development,jq,Command-line JSON processor
+development,entr,Run arbitrary commands when files change
